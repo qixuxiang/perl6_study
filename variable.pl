@@ -1,5 +1,3 @@
-#
-
 
 #Perl 6 variables are classified into 3 categories: Scalars, Arrays and Hashes.
 
