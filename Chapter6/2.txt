@@ -1,0 +1,2 @@
+Hello:
+this is my first perl6 io !
